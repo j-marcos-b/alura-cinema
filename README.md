@@ -1,1 +1,1 @@
-Proyecto de Alura para subir videos
+Proyecto de Alura para compartir videos, añadirlos a favoritos y visualizarlos en la plataforma.
