@@ -1,4 +1,4 @@
-import { Banner2 } from '../../components/Banner';
+import { Banner2 } from '../../components/banner';
 import styles from './favoritos.module.css';
 import Titulo from '../../components/titulo';
 import Cards from '../../components/cards';
