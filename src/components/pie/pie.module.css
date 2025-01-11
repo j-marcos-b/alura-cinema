@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    justify-content: center;
+    background-color: var(--negro);
+}
+
+.texto {
+    font-size: 20px;
+    color: var(--blanco)
+}
